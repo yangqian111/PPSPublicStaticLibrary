@@ -1,0 +1,2 @@
+# PPSPublicStaticLibrary
+介绍使用pod创建自己的静态库，并且上传到pod公共库，共享源代码
