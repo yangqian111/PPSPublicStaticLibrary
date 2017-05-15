@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PPSPublicStaticLibrary_Example' do
+  pod 'PPSPublicStaticLibrary', :path => '../'
+
+  target 'PPSPublicStaticLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

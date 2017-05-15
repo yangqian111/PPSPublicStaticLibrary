@@ -1,0 +1,6 @@
+framework module Pods_PPSPublicStaticLibrary_Example {
+  umbrella header "Pods-PPSPublicStaticLibrary_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

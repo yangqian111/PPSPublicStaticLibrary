@@ -1,0 +1,16 @@
+PODS:
+  - PPSPublicStaticLibrary (0.1.0)
+
+DEPENDENCIES:
+  - PPSPublicStaticLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  PPSPublicStaticLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PPSPublicStaticLibrary: 9c312f711ff1b115c5213e9883d37b8ea34f17f6
+
+PODFILE CHECKSUM: dc65bfee4b64cef0644384e6a7c93678615be3fc
+
+COCOAPODS: 1.2.0
